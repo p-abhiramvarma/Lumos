@@ -1,2 +1,2 @@
 # Lumos
-Aid for Aged and Blind People
+Aid for Aged and Blind People using Deep Learning.
